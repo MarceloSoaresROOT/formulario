@@ -1,0 +1,41 @@
+.cabeçalho{
+    text-align: center;
+    background-color: #008163;
+}
+.formulario-container{
+text-align: center;
+background-color: #199b70;
+width: 630px;
+height: 790px;
+margin: auto;
+border-radius: 20px;
+}
+body{
+    background-color: #80d4c6;}
+h2{
+    color: #49af05;
+    font-size: 20pt;
+    background-color: rgb(1, 44, 33);
+    border-radius: 30px;
+    width: auto;
+    height: auto;
+}
+h3{
+    color: #199b70;
+    width: 400px;
+    height: 300px;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+}
+footer{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #069274;
+    color: #03607c;
+    box-sizing: border-box;
+    
+}
